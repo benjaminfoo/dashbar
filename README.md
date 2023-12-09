@@ -2,4 +2,5 @@
 
 GNOME Shell extension
 
-https://extensions.gnome.org/extension/5143/dashbar
+Fork of https://github.com/fthx/dashbar/ with updated padding.
+See: https://extensions.gnome.org/extension/5143/dashbar
